@@ -1,7 +1,7 @@
 1
 2
 3
-add line
+add line up
 commit
 3line
 new branch line
